@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">远程文件</string>
+
+    <string name="notif_server_starting">远程管理服务已启动</string>
+    <string name="notif_title">远程管理服务正在运行</string>
+    <string name="ftp_open_port_error">无法打开端口，请确认网络已连接或重新设置端口号。</string>
+    <string name="wifi_state">当前WIFI</string>
+    <string name="instruction">请在“我的电脑”地址栏中输入：</string>
+    <string name="server_control_settings">设置</string>
+    <string name="instruction_pre_phone">启动后可以从电脑端远程管理手机文件</string>
+    <string name="no_wifi_hint">无WLAN网络,点击以查看WLAN设置</string>
+    <string name="stop_server">停止服务</string>
+    <string name="start_server">启动服务</string>
+    <string name="no_wifi">无WLAN网络</string>
+    <string name="storage_warning">外部存储不可用.</string>
+    <string name="select_volume">请选择访问存储位置</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确定</string>
+    <string name="storage_sd_card">SD卡</string>
+    <string name="storage_usb">USB存储器</string>
+    <string name="storage_cloned_app">应用双开数据</string>
+    <string name="storage_internal">内存设备</string>
+    <string name="ftp_username_hint">用户名</string>
+    <string name="ftp_password_hint">密码</string>
+    <string name="ftp_invalid_username_or_password">用户名或密码无效</string>
+    <string name="server_control_advanced_settings">高级设置</string>
+    <string name="stay_awake_summary">使用FTP时屏幕不会休眠</string>
+    <string name="stay_awake_title">保持唤醒状态</string>
+    <string name="ftp_transfer_secure">传输安全</string>
+    <string name="ftp_port_number">端口号</string>
+    <string name="ftp_anonymous_login">匿名登录</string>
+    <string name="ftp_username_and_passworld">用户名与密码</string>
+    <string name="ftp_account_req_notice">你的用户名与密码长度必须为4－16字符。可以使用特殊符号，字母区分大小写。</string>
+    <string name="msg_no_permission">你拒绝了权限将无法使用《远程文件》\n请到设置中打开</string>
+    <string name="msg_copy_success">复制成功</string>
+</resources>

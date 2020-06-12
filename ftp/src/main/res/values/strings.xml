@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_server_starting">远程管理服务已启动</string>
+    <string name="notif_title">远程管理服务正在运行</string>
+
+</resources>

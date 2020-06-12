@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff05000</color>
+    <color name="colorPrimaryDark">#ac3900</color>
+    <color name="colorAccent">#fff05000</color>
+
+    <color name="start_stop_server">#fff05000</color>
+    <color name="gray">#a6a6a0</color>
+    <color name="text_color_yellow">#4b4b4b</color>
+</resources>
